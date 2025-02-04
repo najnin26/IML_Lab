@@ -10,4 +10,4 @@ I’m currently learning Machine Learning, Deep Learning and Computer Vision!
 
 I’m looking to collaborate on Computer Vision , Machine Learning
 
-How to reach me najninshirin26@gmail.com .
+How to reach me najninshirin26@gmail.com 
